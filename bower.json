@@ -1,0 +1,20 @@
+{
+  "name": "Angular-Wizard",
+  "version": "1.0.0",
+  "main": [
+	  "/dist/angular-wizard.js",
+	  "/dist/angular-wizard.css",
+	  ],
+  "description": "Angular JS Wizard Module",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pedromontemor/angular-wizard.git"
+  }
+}
