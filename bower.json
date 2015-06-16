@@ -2,8 +2,8 @@
   "name": "Angular-Wizard",
   "version": "1.0.0",
   "main": [
-	  "/dist/angular-wizard.js",
-	  "/dist/angular-wizard.css"
+	  "./dist/angular-wizard.js",
+	  "./dist/angular-wizard.css"
 	  ],
   "authors": [
 		"Pedro Monte Mor"
