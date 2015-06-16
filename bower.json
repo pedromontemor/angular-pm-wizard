@@ -3,8 +3,16 @@
   "version": "1.0.0",
   "main": [
 	  "/dist/angular-wizard.js",
-	  "/dist/angular-wizard.css",
+	  "/dist/angular-wizard.css"
 	  ],
+  "authors": [
+		"Pedro Monte Mor"
+	],
+  "keywords": [
+    "Angular",
+    "Wizard"
+  ],
+  "homepage": "https://github.com/pedromontemor/angular-wizard",
   "description": "Angular JS Wizard Module",
   "ignore": [
     ".jshintrc",
